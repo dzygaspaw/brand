@@ -38,6 +38,20 @@ Each logo type comes in four variants:
 
 ---
 
+## Fonts
+
+Three typefaces are used across the brand:
+
+| Font | Styles in use | Role |
+|---|---|---|
+| **T1 Robit** | Light, Bold, Dark (+ variable) | Display headings, section titles |
+| **Road UI** (or **Road UA**) | Regular, Oblique, ExtraBold | Body text, UI, captions |
+| **UAF Memory** | Regular (variable) | Serif accent headings |
+
+> Font files and the full designbook are internal — ask the Dzyga's Paw team for access.
+
+---
+
 ## Brand Colors
 
 | Name | Hex | Usage |
